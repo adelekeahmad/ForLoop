@@ -4,14 +4,14 @@ class Program
 {
     static void Main(string[] arg)
     {
-      int a = 1;
+     
         int[] luckyNumbers = { 10, 15, 20, 25, 30, 40}; 
        // while(i < 5) set i loop condition
         //{
           //  Console.WriteLine(i);
             //i++;  increment i by 1
         //}
-        for(a =1; a<=7; a++)
+        for(int a =1; a<=7; a++)
         {
             Console.WriteLine(a);
         }
